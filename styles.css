@@ -115,7 +115,7 @@ header .profile-image:hover {
   margin: 10px auto;
 }
 
-.card {
+.section {
   color: black;
   margin: 30px;
   padding: 20px 40px 40px;
@@ -127,14 +127,14 @@ header .profile-image:hover {
   transition: all .5s;
 }
 
-.card-title {
+.section-title {
   text-align: center;
   border: 3px dotted #ADD8E6;
   border-radius: 6px;
   padding: 10px;
 }
 
-.card:hover {
+.section:hover {
   border-color: #F4A460;
 }
 
